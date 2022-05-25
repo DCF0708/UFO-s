@@ -9,8 +9,11 @@ We are given a data set that holds a multitude of information surrounding the to
 Note: The "Filter Search" box highlighted in green displays evenly with the Table on the true webpage version.
 ![](/static/images/webpage.jpg)
 <div style="text-align: right"> (fig. 1) </div>
-The update added 4 additional text search boxes that allow the user to further refine the data beyond just the date. The shadow of an example filter is displayed in the text input boxes above highlighted in green. The box will accept input that follows the format of the shadow; it will filter the data in real time when a filter criteria has been met. The input boxes can be cleared by refreshing the page or manually deleting each boxes contents. Once clear and/or empty, the data table will stop being filtered and return to displaying all sightings.  
+The update added 4 additional text search boxes that allow the user to further refine the data beyond just the date. The shadow of an example filter is displayed in the text input boxes above highlighted in green. The box will accept input that follows the format of the shadow; it will filter the data in real time when a filter criteria has been met. The input boxes can be cleared by refreshing the page or manually deleting each boxes contents. Once clear and/or empty, the data table will stop being filtered and return to displaying all sightings. 
 
+![](/static/images/filtered.jpg)  
+<div style="text-align: right"> (fig. 2) </div>
+</br>
 ## Summary
 Each criteria outlined above has been met, and the web page operates in the method outlined above. What *doesn't* this webpage do?
 
